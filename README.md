@@ -11,5 +11,5 @@ University of Science and Technology of China (USTC), National University of Sin
 | 2023-09-26  | The arxiv version has been released | 
 
 <p align="center">
-  <img src="./figs/graphadapter.png" alt="image" style="width:1000px;">
+  <img src="./figs/GraphAdapter.png" alt="image" style="width:1000px;">
 </p>
